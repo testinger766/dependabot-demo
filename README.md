@@ -2,4 +2,5 @@
 
 A repository containing insecure, outdated dependencies to demo the power of Dependabot.
 
-> [!NOTE] The code in this repository contains insecure dependencies, and should only be used to complete the exercises in TODOCS.
+> [!IMPORTANT]
+> The code in this repository contains insecure dependencies, and should only be used to complete the exercises in TODOCS.
